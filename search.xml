@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>解决hexo图片不显示问题</title>
+    <url>/2021/08/24/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<img src="/.com//08/24/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/2020-02-24.png" class>]]></content>
+  </entry>
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <url>/2021/08/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<img src="https://gitee.com/yan-antong/image/raw/master/2020-02-24.png"> 
+## Hello
+This is my first blog using hexo.
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">System.out.println(&quot;hello world&quot;);</span><br></pre></td></tr></table></figure>
+## What is Hexo?
+Hexo is a fast, simple and powerful blog framework. You write posts in Markdown (or other markup languages) and Hexo generates static files with a beautiful theme in seconds.]]></content>
+  </entry>
+</search>
