@@ -3,8 +3,11 @@
   <entry>
     <title>解决hexo图片不显示问题</title>
     <url>/2021/08/24/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<img src="/.com//08/24/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/2020-02-24.png" class>
-<p><img src="/.com//2020-02-24.png"> </p>
+    <content><![CDATA[<h2 id="jj"><a href="#jj" class="headerlink" title="jj"></a>jj</h2><img src="/.com//08/24/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/2020-02-24.png" class title="aa">
+
+
+
+<p><img src="/.com//2020-02-24.png"><br><img src="/.com//%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/2020-02-24.png"><br><img src="https://gitee.com/yan-antong/image/raw/master/2020-02-24.png"> </p>
 ]]></content>
   </entry>
   <entry>
