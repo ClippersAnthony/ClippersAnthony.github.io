@@ -6,6 +6,13 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="错误"><a href="#错误" class="headerlink" title="错误"></a>错误</h2><p>使用标签插件引入图片出现未知错误，图片显示异常</p>
 <h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><p>将图片放入source/images文件夹，用<img src="">引入图片</p>
 ]]></content>
+      <categories>
+        <category>解决方案</category>
+      </categories>
+      <tags>
+        <tag>解决方案</tag>
+        <tag>hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的第一篇博客文章</title>
@@ -20,5 +27,8 @@
         height:80%;
     } */
 </style>]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
 </search>
